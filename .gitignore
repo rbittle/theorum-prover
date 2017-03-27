@@ -1,0 +1,6 @@
+# Testing files
+*.in
+*.out
+
+# Vim swp
+*.swp
