@@ -73,3 +73,6 @@ if __name__ == "__main__":
 
 #Returns the line numbers from the input file and outputs it.
 {
+    
+    return {result1, result2}
+}
