@@ -70,9 +70,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-#Returns the line numbers from the input file and outputs it.
-{
-    
-    return {result1, result2}
-}
